@@ -1,0 +1,28 @@
+PRIMETRADE ASSIGNMENT
+
+Average Profit by Sentiment:
+classification
+Extreme Fear     34.537862
+Extreme Greed    67.892861
+Fear             54.290400
+Greed            42.743559
+Neutral          34.307718
+Name: Closed PnL, dtype: float64
+
+Win Rate by Sentiment:
+classification
+Extreme Fear     37.060748
+Extreme Greed    46.494299
+Fear             42.076750
+Greed            38.482794
+Neutral          39.699093
+Name: Win, dtype: float64
+
+Total Profit by Sentiment:
+classification
+Extreme Fear     7.391102e+05
+Extreme Greed    2.715171e+06
+Fear             3.357155e+06
+Greed            2.150129e+06
+Neutral          1.292921e+06
+Name: Closed PnL, dtype: float64
